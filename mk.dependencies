@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_htc_m4",
+    "target_path": "vendor/htc/m4"
+  },
+  {
     "repository": "android_kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960"
   },
